@@ -4,7 +4,7 @@ Shopping Store App made using Kotlin with Jetpack Compose.
 
 - **Room Database** is used in the app to store data that needs to persist.
 - **Type-Safe Navigation** is used for navigation.
-- You can manually Add/Delete Item that are present on home page by using given buttons.
+- You can manually Add/Delete Item that are present on home page by using given buttons on Account Tab.
 
 ## Screenshots
 
